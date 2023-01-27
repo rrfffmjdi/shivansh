@@ -1,0 +1,30 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+button{
+    width:40%;
+}
+.webcam_container{
+    border-style: dashed;
+    border-width:4px;
+    width:250px;
+    height: 250px;
+   margin-bottom: 50px;
+}
+hr{
+    height: 2px;
+    background-color: darkolivegreen;
+}
+#div2{
+    font-weight: bold;
+    color:yellow;
+    letter-spacing: 3px;
+}
+h1{
+    border-width:1px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    width:50%;
+    text-shadow:2px 2px grey;
+}
